@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myProtoApp</string>
+    <string name="app_display_name">Proto</string>
+
+    <string name="facebook_app_id">491065609764759</string>
+    <string name="fb_login_protocol_scheme">fb491065609764759</string>
+    <string name="facebook_client_token">55f4f6eb9d268893e7d8943b669fd1d0</string>
+</resources>
